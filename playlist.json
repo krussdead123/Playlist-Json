@@ -1,316 +1,217 @@
 {
-    "songs": [
-        {
-            "id": 122748040933791,
-            "title": "JUNGKOOK - Still With You",
-            "category": "ALL",
-            "length": 248
-        },
-        {
-            "id": 110613059398952,
-            "title": "DJ Calon Mantu X Romlos Propun",
-            "category": "ALL",
-            "length": 210
-        },
-        {
-            "id": 104207837699519,
-            "title": "DJ Jang Lanjut Chat",
-            "category": "ALL",
-            "length": 230
-        },
-        {
-            "id": 84960629212542,
-            "title": "DJ Dum Sae Sae X Bang Jono",
-            "category": "ALL",
-            "length": 201
-        },
-        {
-            "id": 83926310850646,
-            "title": "DJ Asmara Koplo Full Bass",
-            "category": "Funkot",
-            "length": 223
-        },
-        {
-            "id": 113234855593780,
-            "title": "Scorpions - Wind of Change Cover",
-            "category": "ALL",
-            "length": 180
-        },
-        {
-            "id": 114501905156554,
-            "title": "Country Road Take me Home",
-            "category": "ALL",
-            "length": 205
-        },
-        {
-            "id": 99012050332706,
-            "title": "DJ Gata Only Remix",
-            "category": "Indo Bounce",
-            "length": 240
-        },
-        {
-            "id": 105901538635123,
-            "title": "Kasih Sayang Kepada Orang Tua",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 109122106993629,
-            "title": "Seventeen JKT 48",
-            "category": "ALL",
-            "length": 240
-        },
-         {
-            "id": 106487940656860,
-            "title": "DJ Enakeun V36 SlowVrb",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 90176964377273,
-            "title": "Agnez Mo - Matahariku",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 77032192222389,
-            "title": "Tipe-X Kamu Gak Sendirian",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 72811766862459,
-            "title": "Tipe-X Mawar Hitam",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 97846782617242,
-            "title": "Killing Me Inside - Biarlah",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 126272463377486,
-            "title": "J-Rock Ceria",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 89728067900568,
-            "title": "Last Child - Bernafas Tanpamu",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 129788309562660,
-            "title": "Buruh Tani - Marjinal",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 113718024035525,
-            "title": "Tipe-X Selamat Jalan",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 115319624217093,
-            "title": "Tipe-x Lagi Lagi Sendiri",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 113134205913400,
-            "title": "Souljah - Tak Selalu",
-            "category": "ALL",
-            "length": 240
-        },
-         {
-            "id": 89928572993594,
-            "title": "Pesawat Tempurku Reggae",
-            "category": "ALL",
-            "length": 240
-        },
-         {
-            "id": 70870271606151,
-            "title": "SLANK ROCK",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 79703091079572,
-            "title": "Jogja Istimewa",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 73039413365426,
-            "title": "Paris Van Java - Tony q Rastafara",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 115478082474446,
-            "title": "Kewer Kewer - Libertaria",
-            "category": "ALL",
-            "length": 240
-        },
-         {
-            "id": 74158380174562,
-            "title": "DJ EEEEAAA ENGKOL - BREAKBEAT",
-            "category": "ALL",
-            "length": 240
-        },
-         {
-            "id": 136176329012063,
-            "title": "Jamilah itu Bukan Anunya Aisyah",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 93465305272706,
-            "title": "Jeans - Jenni blackPink",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-            "id": 100553043682709,
-            "title": "China DJ SONG",
-            "category": "ALL",
-            "length": 240
-        },
-         {
-            "id": 85931507457083,
-            "title": "DJ New",
-            "category": "ALL",
-            "length": 240
-        },
-        {
-    "id": 132036809419638,
-    "title": "Hamil Duluan",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 135012896569304,
-    "title": "Yala Habibi",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 139044375618225,
-    "title": "Mangu",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 111073572102030,
-    "title": "Mimi Cucu",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 108093793592338,
-    "title": "1 Atau 2",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 116548870704550,
-    "title": "Dokter Cinta",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 116661329381099,
-    "title": "Ungger",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 129147346196109,
-    "title": "Mejiku",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 140221272337336,
-    "title": "Aishiteru 2",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 119791012366446,
-    "title": "Monitor Ketua",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 113861536008258,
-    "title": "Seperti Mati Lampu",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 123099452770277,
-    "title": "Keong Racun",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 78742358200346,
-    "title": "Paijo",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 134518104741263,
-    "title": "Stecu",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 131274798280973,
-    "title": "Barudak Phong",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 100695385998520,
-    "title": "Morena",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 114944474630772,
-    "title": "Bento",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 87203906567639,
-    "title": "Gasolina",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 86189887041620,
-    "title": "Walking On Air",
-    "category": "ALL",
-    "length": 240
-},
-{
-    "id": 136790911666574,
-    "title": "Su Asu",
-    "category": "ALL",
-    "length": 240
-},
-        {
-    "id": 97803967397073,
-    "title": "Mati Matian",
-    "category": "ALL",
-    "length": 240
-}
-    ]
+  "songs": [
+    {
+      "id": 132036809419638,
+      "title": "Hamil Duluan",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 135012896569304,
+      "title": "Yala Habibi",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 139044375618225,
+      "title": "Mangu",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 111073572102030,
+      "title": "Mimi Cucu",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 108093793592338,
+      "title": "1 Atau 2",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 116548870704550,
+      "title": "Dokter Cinta",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 116661329381099,
+      "title": "Ungger",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 129147346196109,
+      "title": "Mejiku",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 140221272337336,
+      "title": "Aishiteru 2",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 119791012366446,
+      "title": "Monitor Ketua",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 113861536008258,
+      "title": "Seperti Mati Lampu",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 123099452770277,
+      "title": "Keong Racun",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 78742358200346,
+      "title": "Paijo",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 134518104741263,
+      "title": "Stecu",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 131274798280973,
+      "title": "Barudak Phong",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 100695385998520,
+      "title": "Morena",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 114944474630772,
+      "title": "Bento",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 87203906567639,
+      "title": "Gasolina",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 86189887041620,
+      "title": "Walking On Air",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 136790911666574,
+      "title": "Su Asu",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 97803967397073,
+      "title": "Mati Matian",
+      "category": "ALL",
+      "length": 240
+    },
+
+    /* === FINNS REMIX === */
+
+    {
+      "id": 103407833748170,
+      "title": "Finns Remix 24",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 89711098703474,
+      "title": "Finns Remix 25",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 93800807983030,
+      "title": "Finns Remix 29",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 96749644099613,
+      "title": "I Know U Want Me - Finns",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 140181594919212,
+      "title": "Remix Finns 23",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 81622240177891,
+      "title": "Remix Finns 27",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 87015435642945,
+      "title": "Remix Finns 30",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 110625036536606,
+      "title": "Remix Finns 32",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 79949051210129,
+      "title": "Remix Finns 33",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 122773673041055,
+      "title": "Remix Finns 36",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 98909552406483,
+      "title": "Remix Finns 37",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 103335633967887,
+      "title": "Remix Finns 39",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 71000988299168,
+      "title": "Remix Finns 40",
+      "category": "ALL",
+      "length": 240
+    },
+    {
+      "id": 128014641691231,
+      "title": "Remix Finns 43",
+      "category": "ALL",
+      "length": 240
+    }
+  ]
 }
